@@ -10,7 +10,7 @@ app.use(express.json());
 cloudinary.config({
   cloud_name: "dkbhdasfh",
   api_key: "753871694213243",
-  api_secret: "tQcdZJjnj14P-Z8fQ1YbP1LW7OU"
+  api_secret: "##"
 });
 
 // 🔥 DELETAR IMAGEM
